@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.1.4">
   <diagram name="第 1 页" id="p2v2ewfZtWjiaa9QKQba">
-    <mxGraphModel dx="949" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1776" dy="1779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,33 +10,135 @@
         <mxCell id="VDNPr8oSDkrUMv3AgYhS-1" value="手动点应用启用" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="294" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VDNPr8oSDkrUMv3AgYhS-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VDNPr8oSDkrUMv3AgYhS-2" target="VDNPr8oSDkrUMv3AgYhS-4" edge="1">
+        <mxCell id="wfAPkj4CQtQT-MwPSqke-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VDNPr8oSDkrUMv3AgYhS-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="601" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wfAPkj4CQtQT-MwPSqke-4" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wfAPkj4CQtQT-MwPSqke-3">
+          <mxGeometry x="0.1626" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wfAPkj4CQtQT-MwPSqke-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VDNPr8oSDkrUMv3AgYhS-2" target="wfAPkj4CQtQT-MwPSqke-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VDNPr8oSDkrUMv3AgYhS-6" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="VDNPr8oSDkrUMv3AgYhS-5" vertex="1" connectable="0">
-          <mxGeometry x="0.2955" y="3" relative="1" as="geometry">
+        <mxCell id="wfAPkj4CQtQT-MwPSqke-12" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wfAPkj4CQtQT-MwPSqke-9">
+          <mxGeometry x="-0.1314" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VDNPr8oSDkrUMv3AgYhS-2" value="流是否在线" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="299" y="220" width="110" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="VDNPr8oSDkrUMv3AgYhS-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="130" y="360" width="120" height="60" as="geometry" />
+        <mxCell id="wfAPkj4CQtQT-MwPSqke-2" value="&lt;span style=&quot;background-color: transparent;&quot;&gt;AiTaskStatusStopped&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;= 0&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;AiTaskStatusStarted&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;= 1&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;AiTaskStatusOnStreamNotOnline = 2&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;AiTaskStatusNotEffectiveTime&amp;nbsp; = 3&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-40" width="210" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="VDNPr8oSDkrUMv3AgYhS-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="450" y="360" width="120" height="60" as="geometry" />
+        <mxCell id="wfAPkj4CQtQT-MwPSqke-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wfAPkj4CQtQT-MwPSqke-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="490" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="VDNPr8oSDkrUMv3AgYhS-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.578;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="VDNPr8oSDkrUMv3AgYhS-2" target="VDNPr8oSDkrUMv3AgYhS-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="VDNPr8oSDkrUMv3AgYhS-9" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="VDNPr8oSDkrUMv3AgYhS-8" vertex="1" connectable="0">
-          <mxGeometry x="0.3511" relative="1" as="geometry">
+        <mxCell id="wfAPkj4CQtQT-MwPSqke-19" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wfAPkj4CQtQT-MwPSqke-15">
+          <mxGeometry x="0.086" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wfAPkj4CQtQT-MwPSqke-2" value="&lt;span style=&quot;background-color: transparent;&quot;&gt;AiTaskStatusStopped&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;= 0&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;AiTaskStatusStarted&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;= 1&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;AiTaskStatusOnStreamNotOnline = 2&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;AiTaskStatusNotEffectiveTime&amp;nbsp; = 3&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="20" y="30" width="210" height="80" as="geometry" />
+        <mxCell id="wfAPkj4CQtQT-MwPSqke-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wfAPkj4CQtQT-MwPSqke-5" target="wfAPkj4CQtQT-MwPSqke-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wfAPkj4CQtQT-MwPSqke-20" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wfAPkj4CQtQT-MwPSqke-18">
+          <mxGeometry x="0.0678" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wfAPkj4CQtQT-MwPSqke-5" value="是否处于有效期" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="360" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wfAPkj4CQtQT-MwPSqke-6" value="&lt;span style=&quot;text-align: left;&quot;&gt;AiTaskStatusStarted&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="490" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wfAPkj4CQtQT-MwPSqke-13" value="&lt;span style=&quot;text-align: left;&quot;&gt;AiTaskStatusNotEffectiveTime&amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="490" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wfAPkj4CQtQT-MwPSqke-21" value="&lt;span style=&quot;text-align: left;&quot;&gt;AiTaskStatusNotEffectiveTime&amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="380" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wfAPkj4CQtQT-MwPSqke-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wfAPkj4CQtQT-MwPSqke-22" target="wfAPkj4CQtQT-MwPSqke-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wfAPkj4CQtQT-MwPSqke-22" value="手动点停用启用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wfAPkj4CQtQT-MwPSqke-24" value="&lt;span style=&quot;text-align: left;&quot;&gt;AiTaskStatusStopped&amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wfAPkj4CQtQT-MwPSqke-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wfAPkj4CQtQT-MwPSqke-28" target="wfAPkj4CQtQT-MwPSqke-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wfAPkj4CQtQT-MwPSqke-28" value="流启用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="264" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wfAPkj4CQtQT-MwPSqke-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wfAPkj4CQtQT-MwPSqke-33" target="wfAPkj4CQtQT-MwPSqke-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wfAPkj4CQtQT-MwPSqke-32" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wfAPkj4CQtQT-MwPSqke-31">
+          <mxGeometry x="-0.1314" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wfAPkj4CQtQT-MwPSqke-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wfAPkj4CQtQT-MwPSqke-33" target="wfAPkj4CQtQT-MwPSqke-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wfAPkj4CQtQT-MwPSqke-46" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wfAPkj4CQtQT-MwPSqke-45">
+          <mxGeometry x="-0.4585" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wfAPkj4CQtQT-MwPSqke-33" value="app是否在线" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="269" y="760" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wfAPkj4CQtQT-MwPSqke-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wfAPkj4CQtQT-MwPSqke-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="30" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wfAPkj4CQtQT-MwPSqke-35" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wfAPkj4CQtQT-MwPSqke-34">
+          <mxGeometry x="0.086" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wfAPkj4CQtQT-MwPSqke-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wfAPkj4CQtQT-MwPSqke-38" target="wfAPkj4CQtQT-MwPSqke-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wfAPkj4CQtQT-MwPSqke-37" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wfAPkj4CQtQT-MwPSqke-36">
+          <mxGeometry x="0.0678" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wfAPkj4CQtQT-MwPSqke-38" value="是否处于有效期" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="900" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wfAPkj4CQtQT-MwPSqke-39" value="&lt;span style=&quot;text-align: left;&quot;&gt;AiTaskStatusStarted&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="1030" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wfAPkj4CQtQT-MwPSqke-40" value="&lt;span style=&quot;text-align: left;&quot;&gt;AiTaskStatusNotEffectiveTime&amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1030" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wfAPkj4CQtQT-MwPSqke-41" value="&lt;span style=&quot;text-align: left;&quot;&gt;AiTaskStatusNotEffectiveTime&amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1030" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wfAPkj4CQtQT-MwPSqke-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wfAPkj4CQtQT-MwPSqke-43" target="wfAPkj4CQtQT-MwPSqke-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wfAPkj4CQtQT-MwPSqke-43" value="手动点停用启用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wfAPkj4CQtQT-MwPSqke-44" value="&lt;span style=&quot;text-align: left;&quot;&gt;AiTaskStatusStopped&amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="780" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
