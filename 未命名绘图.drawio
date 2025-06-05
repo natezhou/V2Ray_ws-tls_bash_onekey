@@ -64,7 +64,7 @@
         <mxCell id="wfAPkj4CQtQT-MwPSqke-13" value="&lt;span style=&quot;text-align: left;&quot;&gt;AiTaskStatusNotEffectiveTime&amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="490" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="wfAPkj4CQtQT-MwPSqke-21" value="&lt;span style=&quot;text-align: left;&quot;&gt;AiTaskStatusNotEffectiveTime&amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wfAPkj4CQtQT-MwPSqke-21" value="&lt;span style=&quot;text-align: left;&quot;&gt;AiTaskStatusOnStreamNotOnline&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="380" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wfAPkj4CQtQT-MwPSqke-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wfAPkj4CQtQT-MwPSqke-22" target="wfAPkj4CQtQT-MwPSqke-24">
