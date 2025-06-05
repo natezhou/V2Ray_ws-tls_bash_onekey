@@ -217,7 +217,7 @@
         <mxCell id="wfAPkj4CQtQT-MwPSqke-69" value="app是否在线" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1215" y="760" width="110" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="wfAPkj4CQtQT-MwPSqke-70" value="&lt;span style=&quot;text-align: left;&quot;&gt;AiTaskStatusStopped&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wfAPkj4CQtQT-MwPSqke-70" value="&lt;span style=&quot;text-align: left;&quot;&gt;AiTaskStatusOnStreamNotOnline&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1120" y="900" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wfAPkj4CQtQT-MwPSqke-71" value="&lt;span style=&quot;text-align: left;&quot;&gt;AiTaskStatusStopped&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
