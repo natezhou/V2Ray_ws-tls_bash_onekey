@@ -198,8 +198,30 @@
         <mxCell id="wfAPkj4CQtQT-MwPSqke-67" value="&lt;span style=&quot;text-align: left;&quot;&gt;AiTaskStatusStarted&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="1140" width="70" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="wfAPkj4CQtQT-MwPSqke-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wfAPkj4CQtQT-MwPSqke-69" target="wfAPkj4CQtQT-MwPSqke-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wfAPkj4CQtQT-MwPSqke-74" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wfAPkj4CQtQT-MwPSqke-72">
+          <mxGeometry x="-0.0507" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wfAPkj4CQtQT-MwPSqke-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wfAPkj4CQtQT-MwPSqke-69" target="wfAPkj4CQtQT-MwPSqke-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wfAPkj4CQtQT-MwPSqke-75" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wfAPkj4CQtQT-MwPSqke-73">
+          <mxGeometry x="-0.0686" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="wfAPkj4CQtQT-MwPSqke-69" value="app是否在线" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1215" y="760" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wfAPkj4CQtQT-MwPSqke-70" value="&lt;span style=&quot;text-align: left;&quot;&gt;AiTaskStatusStopped&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="900" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wfAPkj4CQtQT-MwPSqke-71" value="&lt;span style=&quot;text-align: left;&quot;&gt;AiTaskStatusStopped&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="900" width="70" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
